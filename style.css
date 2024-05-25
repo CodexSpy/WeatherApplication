@@ -12,8 +12,9 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: URL(https://img.freepik.com/free-vector/flat-design-monsoon-season-clouds-illustration_23-2149424294.jpg?w=1380&t=st=1716616058~exp=1716616658~hmac=46db75cefe3f22245231a7cd192a3cf7390b94cfd57680016acf527317b17e07);
-  color: #fff;
+background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); 
+color: #fff;
 }
 
 ::selection {
